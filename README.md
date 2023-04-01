@@ -1,2 +1,2 @@
 # chatgptreverseapi
-如果想中转别的网站把—_worker.js代码中的TELEGRAPH_URL换为别网站就行
+如果想中转别的网站把_worker.js代码中的TELEGRAPH_URL换为别网站就行
